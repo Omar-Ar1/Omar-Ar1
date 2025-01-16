@@ -19,14 +19,6 @@ Explore my lab work from different courses in my Master’s program. Each folder
 - [**Large Distributed Optimization and Computing**](https://github.com/Omar-Ar1/Distributed-Optimization): Labs focused on scaling machine learning algorithms for large datasets and distributed systems.
 - [**Time Series for Machine Learning**](https://github.com/Omar-Ar1/Time-Series-ML): Practical implementations of time series analysis techniques applied to predictive modeling.
 
-## 📊 Personal Projects
-
-I actively work on various data science and machine learning projects, applying diverse techniques to solve practical challenges. Here are some highlights:
-
-- [**Energy Consumption Prediction**](https://github.com/Omar-Ar1/Quant-Finance-Data-Science/blob/main/Energy_Consumption_Forecast_advanced.ipynb): An XGBoost-powered model for accurately forecasting energy consumption. This project focuses on feature engineering and preprocessing to enhance model performance for proactive energy management.
-- [**Stock Prediction with LSTM**](https://github.com/Omar-Ar1/Quant-Finance-Data-Science/blob/main/Stock%20Price%20Prediction%20LSTM.ipynb): A deep learning model utilizing LSTM (Long Short-Term Memory) networks to predict stock price movements. The model is trained on historical stock data to capture temporal dependencies and trends in financial markets.
-- [**Image Classification with Ensemble Methods**](https://github.com/Omar-Ar1/Quant-Finance-Data-Science/blob/main/Satellite_Image_Classification.ipynb): An image classification model leveraging ensemble techniques (e.g., Random Forest, Bagging, and Boosting) to improve accuracy. This project combines multiple models to create a robust classifier that enhances performance over individual models.
-- [**Sentiment Analysis of Amazon User Reviews**](https://github.com/Omar-Ar1/Quant-Finance-Data-Science/blob/main/Amazon%20Reviews%20Sentiment%20Analysis.ipynb): A natural language processing (NLP) project to analyze sentiment in Amazon customer reviews. This model uses a combination of text processing techniques to classify reviews as positive, neutral, or negative, offering insights into customer satisfaction and product performance.
 
 ## 🚧 Work in Progress
 
@@ -34,7 +26,6 @@ I am currently involved in two exciting projects that push the boundaries of mac
 
 - **Large Language Model for Investor Engagement**: In collaboration with BNP Asset Management, I am developing a specialized large language model (LLM) designed to explain optimization model results in a way that is accessible and engaging for investors. This project aims to bridge the gap between complex model outputs and investor insights.
   
-- **Probabilistic Principal Component Analysis (PPCA) Enhancement**: I am conducting research to enhance the PPCA model, with a focus on refining its performance and applicability in high-dimensional data contexts. This involves exploring new techniques for dimensionality reduction and optimization within PPCA.
 
 
 ## 🌐 Let's Connect!
