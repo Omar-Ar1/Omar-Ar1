@@ -8,7 +8,7 @@ I am passionate about using data science and machine learning to tackle real-wor
 
 - **🔧 Skills**: Python, SQL, MATLAB, Sklearn, Plotly, Pandas, Spark, Docker
 - **Languages**: Fluent in Arabic, English, and French
-- **Interest Areas**: Machine Learning for Time Series, Text Analysis, Graph Data, Large-Scale Optimization, Financial Modeling
+- **Interest Areas**: Machine Learning for Time Series, Text Analysis, Graph Data, Large-Scale Optimization, Large Language Models, Multimodal models
 
 ## 📂 Labs and Coursework Projects
 
