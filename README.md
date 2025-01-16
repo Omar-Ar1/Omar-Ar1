@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a Master’s student in **Applied Mathematics and Data Science** at CentraleSupélec, also pursuing an MVA (Mathematics, Vision, and Learning) Master’s at ENS Paris Saclay. With a foundation in quantitative trading, and data science, I specialize in advanced machine learning applications, particularly in time series analysis, natural language processing, and distributed optimization.
 
-I am passionate about using data science and machine learning to tackle real-world problems, ranging from predictive trading strategies in the energy markets to well-being prediction in healthcare.
+I am passionate about using data science and machine learning to tackle real-world problems, ranging from time series forecasting to natural language processing.
 
 ## 🔍 What You'll Find Here
 
