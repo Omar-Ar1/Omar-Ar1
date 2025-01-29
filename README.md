@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Arbi
 
-Welcome to my GitHub profile! I am a Master’s student in **Applied Mathematics and Data Science** at CentraleSupélec, also pursuing an MVA (Mathematics, Vision, and Learning) Master’s at ENS Paris Saclay. With a foundation in quantitative trading, and data science, I specialize in advanced machine learning applications, particularly in time series analysis, natural language processing, and distributed optimization.
+Welcome to my GitHub profile! I am a Master’s student in **Applied Mathematics and Data Science** at CentraleSupélec, also pursuing a research Master's in Mathematics, Vision, and Learning (MVA) at ENS Paris Saclay. With a foundation in applied mathematics and data science, I specialize in advanced machine learning applications, particularly in time series analysis, natural language processing, and distributed optimization.
 
 I am passionate about using data science and machine learning to tackle real-world problems, ranging from time series forecasting to natural language processing.
 
@@ -16,13 +16,13 @@ Explore my lab work from different courses in my Master’s program. Each folder
 
 - [**Advanced Machine Learning**](https://github.com/Omar-Ar1/Advanced-Machine-Learning): In-depth labs covering various machine learning models and applications.
 - [**Advanced Learning for Text and Graph Data**](https://github.com/Omar-Ar1/Advanced-Learning-Text-Graph): Projects exploring NLP and graph data structures for enriched data learning.
-- [**Large Distributed Optimization and Computing**](https://github.com/Omar-Ar1/Distributed-Optimization): Labs focused on scaling machine learning algorithms for large datasets and distributed systems.
+- [**Large Distributed Optimization and Computing**](https://github.com/Omar-Ar1/Distributed-Optimization): Labs focused on optimization algorithms.
 - [**Time Series for Machine Learning**](https://github.com/Omar-Ar1/Time-Series-ML): Practical implementations of time series analysis techniques applied to predictive modeling.
 
 
 ## 🚧 Work in Progress
 
-I am currently involved in two exciting projects that push the boundaries of machine learning and optimization:
+I am currently involved in an exciting project that pushes the boundaries of machine learning:
 
 - **Large Language Model for Investor Engagement**: In collaboration with BNP Asset Management, I am developing a specialized large language model (LLM) designed to explain optimization model results in a way that is accessible and engaging for investors. This project aims to bridge the gap between complex model outputs and investor insights.
   
