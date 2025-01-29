@@ -25,6 +25,7 @@ Explore my lab work from different courses in my Master’s program. Each folder
 I am currently involved in an exciting project that pushes the boundaries of machine learning:
 
 - **Large Language Model for Investor Engagement**: In collaboration with BNP Asset Management, I am developing a specialized large language model (LLM) designed to explain optimization model results in a way that is accessible and engaging for investors. This project aims to bridge the gap between complex model outputs and investor insights.
+- **Language Vision Model for Medical Application**: Currently, I am fine-tuning the Large Language Vision Assistant (LLaVA) on radiographic images to democratize medical assessments. This innovation aims to make critical diagnostic tools accessible to medical students, nurses, and doctors alike.
   
 
 
