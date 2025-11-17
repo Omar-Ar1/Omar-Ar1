@@ -1,52 +1,93 @@
-# 👋 Hi, I'm Omar Arbi
+# Hi, I'm Omar Arbi 👋
 
-Welcome to my GitHub profile! I am a Master’s student in **Applied Mathematics and Data Science** at CentraleSupélec, also pursuing a research Master's in Mathematics, Vision, and Learning (MVA) at ENS Paris Saclay. With a foundation in applied mathematics and data science, I specialize in advanced machine learning applications, particularly in time series analysis, natural language processing, and distributed optimization.
+### AI Researcher • ENS Paris-Saclay (MVA) & CentraleSupélec • Generative Models • Representation Learning • HPC
 
-I am passionate about using data science and machine learning to tackle real-world problems, ranging from time series forecasting to natural language processing.
+---
 
-## 🔍 What You'll Find Here
+## 🚀 About Me
 
-- **🔧 Skills**: Python, SQL, MATLAB, Sklearn, Plotly, Pandas, Spark, Docker
-- **Languages**: Fluent in Arabic, English, and French
-- **Interest Areas**: Machine Learning for Time Series, Text Analysis, Graph Data, Large-Scale Optimization, Large Language Models, Multimodal models
+I like building models that **push boundaries**, stress-test assumptions, and reveal what really drives performance. My work sits where:
 
-## 📂 Labs and Coursework Projects
+* **Generative models break symmetry**,
+* **Representations become interpretable**, and
+* **GPU constraints force creativity**.
 
-Explore my lab work from different courses in my Master’s program. Each folder contains detailed projects applying advanced machine learning concepts:
+I enjoy turning complex ML systems into **clean, efficient, and rigorous experiments**. No fluff—just models, math, and good engineering.
 
-- [**Advanced Machine Learning**](https://github.com/Omar-Ar1/Advanced-Machine-Learning): In-depth labs covering various machine learning models and applications.
-- [**Advanced Learning for Text and Graph Data**](https://github.com/Omar-Ar1/Advanced-Learning-Text-Graph): Projects exploring NLP and graph data structures for enriched data learning.
-- [**Large Distributed Optimization and Computing**](https://github.com/Omar-Ar1/Distributed-Optimization): Labs focused on optimization algorithms.
-- [**Time Series for Machine Learning**](https://github.com/Omar-Ar1/Time-Series-ML): Practical implementations of time series analysis techniques applied to predictive modeling.
+---
 
+## 🔬 What I’m Researching
 
-## 🚧 Work in Progress
+### **🌀 Diffusion Models & Noise Geometry**
 
-I am currently involved in an exciting project that pushes the boundaries of machine learning:
+* Exploring **non-Gaussian noise** (Simplex, rank-based Gaussianization) and how noise structure shifts denoising difficulty.
+* Building anomaly scoring pipelines using reconstruction spectra + latent statistics.
+* Designing structured latents (FiLM conditioning, spatial Z-maps, capacity annealing).
 
-- **Large Language Model for Investor Engagement**: In collaboration with BNP Asset Management, I am developing a specialized large language model (LLM) designed to explain optimization model results in a way that is accessible and engaging for investors. This project aims to bridge the gap between complex model outputs and investor insights.
-- **Language Vision Model for Medical Application**: Currently, I am fine-tuning the Large Language Vision Assistant (LLaVA) on radiographic images to democratize medical assessments. This innovation aims to make critical diagnostic tools accessible to medical students, nurses, and doctors alike.
-  
+### **📐 Representation Learning & Structure Prediction**
 
+* Vision Transformers + GNNs for structured reasoning.
+* Latent geometry analysis using **t‑SNE, PPCA, KL trajectories**, and internal feature probing.
 
-## 🌐 Let's Connect!
+---
 
-- [LinkedIn](https://www.linkedin.com/in/omararbi)
-- [Portfolio Website](https://github.com/Omar-Ar1)
+## 🧠 Highlight Projects
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I’m always open to connecting with fellow data science and machine learning enthusiasts!
+### **1. Adaptive Diffusion for Anomaly Detection**
 
-<!--
-**Omar-Ar1/Omar-Ar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Swapped Gaussian noise with **Simplex noise**, Gaussianized-by-rank to preserve structure.
+🔹 Saw **significant AUROC gains** with identical architecture.
+🔹 Developed diagnostics to verify no data leakage + no artifact-induced shortcuts.
+🔹 Focus on *why* noise geometry changes anomaly separability.
 
-Here are some ideas to get you started:
+### **2. GPT‑2 Interpretability — Tuned Lens vs Logit Lens**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 Trained a **Tuned Lens** to study token-level representation flow.
+🔹 Compared KL divergence trajectories to detect prompt injection patterns.
+🔹 Tuned Lens consistently outperformed Logit Lens in decoding stability & injection detection.
+
+### **3. PPCA at Scale (GPU, Missing Data)**
+
+🔹 Implemented a full EM loop for PPCA with missing values, fully vectorized for GPUs.
+🔹 Benchmarked PCA vs PPCA vs mini-batch variants on massive synthetic datasets.
+🔹 Explored robust PPCA via **t‑distribution** latents.
+
+### **4. Low‑VRAM LLaVA Fine‑Tuning**
+
+🔹 Fine‑tuned LLaVA with **LoRA + quantization** under strict memory budgets.
+🔹 Evaluated through LLM judges (DeepSeek R1 / MedAlpaca).
+🔹 Improved reasoning structure with deliberate prompting.
+
+### **5. Online NMF for Time Series**
+
+🔹 Designed a sliding-window factorization model for electricity-market signals.
+🔹 Integrated hyperparameter search to stabilize dictionary evolution.
+🔹Applied the approach to financial time‑series forecasting, supported by rigorous preprocessing and benchmarking against baseline models.
+
+---
+
+## 🛠️ Skills
+
+**Models:** Diffusion, VAEs, Transformers, GNNs
+**Training:** LoRA, quantization, pruning, EMA, DDP, gradient checkpointing
+**Math:** ELBO, variational inference, spectral analysis, latent-variable modeling
+**HPC:** Slurm, A100 GPUs, CUDA profiling, memory debugging
+**Frameworks:** PyTorch, timm, MONAI, PyTorch-Geometric, vLLM, Flash-Attention
+
+---
+
+## 📌 What I'm Focusing on Next
+
+* Understanding how **noise geometry** reshapes generative-model learning.
+* Pushing more efficient training pipelines for large models.
+* Strengthening my research engineering profile for roles involving **foundation models, interpretability, and generative modeling**.
+
+---
+
+## 📫 Contact
+
+* **LinkedIn:** linkedin.com/in/omar-arbi
+
+Thanks for stopping by! 🚀
+
 -->
