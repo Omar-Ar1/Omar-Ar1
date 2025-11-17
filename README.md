@@ -34,32 +34,41 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 ### **1. Adaptive Diffusion for Anomaly Detection**
 
 🔹 Swapped Gaussian noise with **Simplex noise**, Gaussianized-by-rank to preserve structure.
+
 🔹 Saw **significant AUROC gains** with identical architecture.
+
 🔹 Developed diagnostics to verify no data leakage + no artifact-induced shortcuts.
+
 🔹 Focus on *why* noise geometry changes anomaly separability.
 
 ### **2. GPT‑2 Interpretability — Tuned Lens vs Logit Lens**
 
 🔹 Trained a **Tuned Lens** to study token-level representation flow.
+
 🔹 Compared KL divergence trajectories to detect prompt injection patterns.
+
 🔹 Tuned Lens consistently outperformed Logit Lens in decoding stability & injection detection.
 
 ### **3. PPCA at Scale (GPU, Missing Data)**
 
 🔹 Implemented a full EM loop for PPCA with missing values, fully vectorized for GPUs.
+
 🔹 Benchmarked PCA vs PPCA vs mini-batch variants on massive synthetic datasets.
-🔹 Explored robust PPCA via **t‑distribution** latents.
 
 ### **4. Low‑VRAM LLaVA Fine‑Tuning**
 
 🔹 Fine‑tuned LLaVA with **LoRA + quantization** under strict memory budgets.
+
 🔹 Evaluated through LLM judges (DeepSeek R1 / MedAlpaca).
+
 🔹 Improved reasoning structure with deliberate prompting.
 
 ### **5. Online NMF for Time Series**
 
 🔹 Designed a sliding-window factorization model for electricity-market signals.
+
 🔹 Integrated hyperparameter search to stabilize dictionary evolution.
+
 🔹Applied the approach to financial time‑series forecasting, supported by rigorous preprocessing and benchmarking against baseline models.
 
 
@@ -87,5 +96,3 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 * **LinkedIn:** linkedin.com/in/omar-arbi
 
 Thanks for stopping by! 🚀
-
--->
