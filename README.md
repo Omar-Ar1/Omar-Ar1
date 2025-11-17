@@ -2,7 +2,6 @@
 
 ### AI Researcher • ENS Paris-Saclay (MVA) & CentraleSupélec • Generative Models • Representation Learning • HPC
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,7 @@ I like building models that **push boundaries**, stress-test assumptions, and re
 
 I enjoy turning complex ML systems into **clean, efficient, and rigorous experiments**. No fluff—just models, math, and good engineering.
 
----
+
 
 ## 🔬 What I’m Researching
 
@@ -29,7 +28,6 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 * Vision Transformers + GNNs for structured reasoning.
 * Latent geometry analysis using **t‑SNE, PPCA, KL trajectories**, and internal feature probing.
 
----
 
 ## 🧠 Highlight Projects
 
@@ -64,7 +62,7 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 🔹 Integrated hyperparameter search to stabilize dictionary evolution.
 🔹Applied the approach to financial time‑series forecasting, supported by rigorous preprocessing and benchmarking against baseline models.
 
----
+
 
 ## 🛠️ Skills
 
@@ -74,7 +72,7 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 **HPC:** Slurm, A100 GPUs, CUDA profiling, memory debugging
 **Frameworks:** PyTorch, timm, MONAI, PyTorch-Geometric, vLLM, Flash-Attention
 
----
+
 
 ## 📌 What I'm Focusing on Next
 
@@ -82,7 +80,7 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 * Pushing more efficient training pipelines for large models.
 * Strengthening my research engineering profile for roles involving **foundation models, interpretability, and generative modeling**.
 
----
+
 
 ## 📫 Contact
 
