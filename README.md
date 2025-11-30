@@ -1,6 +1,6 @@
 # Hi, I'm Omar Arbi 👋
 
-### AI Researcher • ENS Paris-Saclay (MVA) & CentraleSupélec • Generative Models • Representation Learning • HPC
+### AI Research • ENS Paris-Saclay (MVA) & CentraleSupélec • Generative Models • Representation Learning • HPC
 
 
 ## 🚀 About Me
