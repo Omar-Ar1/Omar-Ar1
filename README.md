@@ -65,7 +65,7 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 
 ### **5. Online NMF for Time Series**
 
-🔹 Designed a sliding-window factorization model for electricity-market signals.
+🔹 Designed a sliding-window factorization model for financial-market signals.
 
 🔹 Integrated hyperparameter search to stabilize dictionary evolution.
 
