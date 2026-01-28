@@ -75,10 +75,14 @@ I enjoy turning complex ML systems into **clean, efficient, and rigorous experim
 
 ## 🛠️ Skills
 
-**Models:** Diffusion, VAEs, Transformers, GNNs
+**Models:** Diffusion, VAEs, Transformers, GNNs 
+
 **Training:** LoRA, quantization, pruning, EMA, DDP, gradient checkpointing
+
 **Math:** ELBO, variational inference, spectral analysis, latent-variable modeling
+
 **HPC:** Slurm, A100 GPUs, CUDA profiling, memory debugging
+
 **Frameworks:** PyTorch, timm, MONAI, PyTorch-Geometric, vLLM, Flash-Attention
 
 
