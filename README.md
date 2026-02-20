@@ -1,102 +1,63 @@
-# Hi, I'm Omar Arbi 👋
+# Omar Arbi
 
-### AI Research • ENS Paris-Saclay (MVA) & CentraleSupélec • Generative Models • Representation Learning • HPC
+**🧠 AI Research · ENS Paris-Saclay (MVA) & CentraleSupélec** Generative Models · Representation Learning  ⚙️
 
+MSc in Mathematics, Vision & Learning (MVA) with a background in applied mathematics and data science.
 
-## 🚀 About Me
+I work on **generative models and representation learning**, with a bias toward building systems that actually run; clean experiments, reproducible pipelines, honest benchmarks.
 
-I like building models that **push boundaries**, stress-test assumptions, and reveal what really drives performance. My work sits where:
-
-* **Generative models break symmetry**,
-* **Representations become interpretable**, and
-* **GPU constraints force creativity**.
-
-I enjoy turning complex ML systems into **clean, efficient, and rigorous experiments**. No fluff—just models, math, and good engineering.
+Currently finishing my master's and looking for **Applied Scientist / Research Engineering** roles in foundation models or generative AI 🚀
 
 
+## 🔬 Research Interests
 
-## 🔬 What I’m Researching
+### 🌊 Diffusion models & noise geometry
 
-### **🌀 Diffusion Models & Noise Geometry**
+Replacing IID Gaussian noise with **structured processes** (Simplex, Matérn, rank-based Gaussianization) to control denoising difficulty and improve anomaly separability.
 
-* Exploring **non-Gaussian noise** (Simplex, rank-based Gaussianization) and how noise structure shifts denoising difficulty.
-* Building anomaly scoring pipelines using reconstruction spectra + latent statistics.
-* Designing structured latents (FiLM conditioning, spatial Z-maps, capacity annealing).
+Building principled diagnostics to understand *why* noise geometry shifts AUROC — not just that it does.
 
-### **📐 Representation Learning & Structure Prediction**
+---
 
-* Vision Transformers + GNNs for structured reasoning.
-* Latent geometry analysis using **t‑SNE, PPCA, KL trajectories**, and internal feature probing.
+### 🧩 Representation learning
+
+Probing internal feature geometry in Transformers and GNNs via **t-SNE, PPCA, KL trajectories**.
+
+Interested in when and how representations become interpretable across layers.
 
 
-## 🧠 Highlight Projects
+## 🛠 Selected Work
 
-### **1. Adaptive Diffusion for Anomaly Detection**
-
-🔹 Swapped Gaussian noise with **Simplex noise**, Gaussianized-by-rank to preserve structure.
-
-🔹 Saw **significant AUROC gains** with identical architecture.
-
-🔹 Developed diagnostics to verify no data leakage + no artifact-induced shortcuts.
-
-🔹 Focus on *why* noise geometry changes anomaly separability.
-
-### **2. GPT‑2 Interpretability — Tuned Lens vs Logit Lens**
-
-🔹 Trained a **Tuned Lens** to study token-level representation flow.
-
-🔹 Compared KL divergence trajectories to detect prompt injection patterns.
-
-🔹 Tuned Lens consistently outperformed Logit Lens in decoding stability & injection detection.
-
-### **3. PPCA at Scale (GPU, Missing Data)**
-
-🔹 Implemented a full EM loop for PPCA with missing values, fully vectorized for GPUs.
-
-🔹 Benchmarked PCA vs PPCA vs mini-batch variants on massive synthetic datasets.
-
-### **4. Low‑VRAM LLaVA Fine‑Tuning**
-
-🔹 Fine‑tuned LLaVA with **LoRA + quantization** under strict memory budgets.
-
-🔹 Evaluated through LLM judges (DeepSeek R1 / MedAlpaca).
-
-🔹 Improved reasoning structure with deliberate prompting.
-
-### **5. Online NMF for Time Series**
-
-🔹 Designed a sliding-window factorization model for financial-market signals.
-
-🔹 Integrated hyperparameter search to stabilize dictionary evolution.
-
-🔹Applied the approach to financial time‑series forecasting, supported by rigorous preprocessing and benchmarking against baseline models.
+| Project                                                 | Core idea                                                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 🦷 **Structured-noise diffusion for anomaly detection** | Simplex/Matérn noise → +11.6% detection on CBCT dental pathology; validated on brain MRI   |
+| 🔍 **GPT-2 interpretability: Tuned Lens vs Logit Lens** | KL trajectory analysis for prompt injection detection; Tuned Lens consistently more stable |
+| ♟ **GRPO fine-tuning on Ministral-3B**                  | 4-stage curriculum (Mate-in-1 → Full Game) to stabilize sparse-reward RL for chess         |
+| 🧾 **Knowledge distillation: Qwen2.5 14B → 1.5B**       | TF-IDF + NMF corpus curation + LoRA distillation for Arabic summarization                  |
+| 📊 **GPU-accelerated PPCA with missing data**           | Fully vectorized EM loop; benchmarked against PCA/mini-batch variants at scale             |
+| 📈 **Online NMF for financial time series**             | Sliding-window factorization with stabilized dictionary evolution                          |
 
 
 
-## 🛠️ Skills
+## 🧰 Stack
 
-**Models:** Diffusion, VAEs, Transformers, GNNs 
+**Frameworks:** PyTorch · PyTorch Lightning · MONAI · Transformers · vLLM · PyG 
 
-**Training:** LoRA, quantization, pruning, EMA, DDP, gradient checkpointing
+**Training:** LoRA/QLoRA · DDP · Slurm · CUDA profiling · gradient checkpointing
 
-**Math:** ELBO, variational inference, spectral analysis, latent-variable modeling
-
-**HPC:** Slurm, A100 GPUs, CUDA profiling, memory debugging
-
-**Frameworks:** PyTorch, timm, MONAI, PyTorch-Geometric, vLLM, Flash-Attention
+**Math:** variational inference · ELBO · spectral methods · optimal transport
 
 
+## 🎯 Now
 
-## 📌 What I'm Focusing on Next
+Finishing my MVA master's.
 
-* Understanding how **noise geometry** reshapes generative-model learning.
-* Pushing more efficient training pipelines for large models.
-* Strengthening my research engineering profile for roles involving **foundation models, interpretability, and generative modeling**.
+Actively looking for research engineering or applied scientist roles focused on:
 
+* 🏗 Foundation models
+* 🎨 Generative modeling
+* 🔎 Interpretability
 
+📎 **LinkedIn:**
+[https://linkedin.com/in/omararbi](https://linkedin.com/in/omararbi)
 
-## 📫 Contact
-
-* **LinkedIn:** linkedin.com/in/omar-arbi
-
-Thanks for stopping by! 🚀
